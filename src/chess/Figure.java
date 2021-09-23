@@ -12,4 +12,10 @@ public class Figure {
 		this.posy = posy;
 		this.team = team;
 	}
+
+
+	public boolean move_figure(int posx, int posy){
+		return false;
+		// Bewegt die Figur auf das Feld und prüft ob es funktioniert, also am besten davor üverprüfen und das am besten mit mehreren methoden :)
+	}
 }
