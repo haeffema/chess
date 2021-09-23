@@ -5,7 +5,7 @@ public class Chess {
             {new Figure("B", 1, 0, true), new Figure("B", 1, 1, true), new Figure("B", 1, 2, true), new Figure("B", 1, 3, true), new Figure("B", 1, 4, true), new Figure("B", 1, 5, true), new Figure("B", 1, 6, true), new Figure("B", 1, 7, true)},
             {},
             {},
-            {},
+            {}, // Hier das Schachfeld halt weiter einfügen :)
             {},
             {},
             {}};
